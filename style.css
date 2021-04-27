@@ -207,6 +207,7 @@ html {
   align-items: center;
 
   padding: 20px;
+  margin-left: 300px;
 }
 
 .box > i {
@@ -693,6 +694,9 @@ html {
   .story-bg {
     width: 85%;
   }
+  .box {
+    margin-left: 200px;
+  }
 }
 
 @media (max-width: 1000px) {
@@ -746,6 +750,9 @@ html {
     padding: 0.3rem 2rem;
     margin: 0 1rem;
   }
+  .box {
+    margin-left: 200px;
+  }
 }
 
 @media (max-width: 800px) {
@@ -758,6 +765,9 @@ html {
 
   .popular-tours-heading {
     font-size: 5rem;
+  }
+  .box {
+    margin-left: 300px;
   }
 
   .contact-form {
@@ -815,5 +825,8 @@ html {
   }
   .logo {
     display: none;
+  }
+  .box {
+    margin-left: 200px;
   }
 }
